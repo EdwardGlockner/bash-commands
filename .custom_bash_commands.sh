@@ -26,7 +26,7 @@ github() {
 
 #prompt: "customcommands"
 #executes: cd to /bin/bash (this file)
-alias customcommands="vim ~/.custom_bash_commands.sh"
+alias customcommands="nvim ~/customcommands/.custom_bash_commands.sh"
 
 #prompt: "tekfys"
 #executes: cd to Teknik Fysik directory in OneDrive
@@ -53,5 +53,6 @@ alias bc='bc -l'
 alias ..='cd ..'
 
 alias ...='cd ../..'
+
 
 
