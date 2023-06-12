@@ -54,5 +54,7 @@ alias ..='cd ..'
 
 alias ...='cd ../..'
 
+alias cls="clear"
 
+alias dir="ls -l"
 
